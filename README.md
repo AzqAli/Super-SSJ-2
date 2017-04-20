@@ -12,7 +12,7 @@ Nous allons énumèrer la liste qui nous semble essentielle selon nous pour l'ap
 
 1. __Matériel:__
 		
-	* Internet
+	
 	* PC
 	* Chaise
 	* Bureau/ Table
